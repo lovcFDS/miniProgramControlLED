@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "color-picker":"../../utils/color-picker/color-picker",
+    "slider-vertical":"../../sliderVertical/SliderVertical"
+  }
+  
+}

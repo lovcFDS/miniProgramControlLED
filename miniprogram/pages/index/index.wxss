@@ -1,0 +1,80 @@
+/**index.wxss**/
+.ipaddress-input {
+  height: 400rpx;
+  width: 400rpx;
+  position: relative;
+  padding-left: 25rpx;
+  border: 2px solid rgb(210, 212, 235); border-radius: 10px;
+  /*设置边框及圆角*/
+  margin-top: 10rpx;
+  margin-left: 10rpx;
+}
+.ip-input {
+  height: 35px;
+  border: 1px solid green; border-radius: 5px;
+  /*设置边框及圆角*/
+  margin-top: 30px;
+  width: 370rpx;
+}
+.ip-confirm {
+  border: 1px solid green; border-radius: 5px;
+  /*设置边框及圆角*/
+  margin-top: 30px;
+  background: green;
+}
+.input-text {
+  margin-top: 15rpx;
+  font-size: 32rpx;
+}
+
+.slider-view {
+  height: 400rpx;
+  width: 200rpx;
+  position: relative;
+  padding-left: 25rpx;
+  border: 2px solid rgb(210, 212, 235); border-radius: 10px;
+  /*设置边框及圆角*/
+  margin-top: 10rpx;
+  margin-left: 10rpx;
+}
+
+.color-view {
+  height: 400rpx;
+  width: 400rpx;
+  position: relative;
+  padding-left: 25rpx;
+  /*设置边框及圆角*/
+  margin-top: 30rpx;
+  margin-left: 10rpx;
+}
+
+.switch-view {
+  margin-top: 100rpx;
+  margin-left: 80rpx;
+  width: 200rpx;
+}
+
+
+.slider-item-view {
+  width: max-content;
+  height: 350rpx;
+  margin-left: 50rpx;
+}
+
+.images {
+  border: 1px solid rgb(255, 255, 255); border-radius: 5px;
+  width: 740rpx;
+  height: 350rpx;
+}
+
+.page-body {
+  width: 750rpx;
+  height: auto;
+  opacity: 0.8;
+}
+
+.container {
+  width: max-content;
+  height: max-content;
+  padding: 0rpx;
+}
